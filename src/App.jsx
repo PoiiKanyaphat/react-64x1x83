@@ -16,7 +16,7 @@ function App() {
   return (
     <div>
       <MyBar name="Me App" />
-      <h1>Hello DIT, RSU</h1>
+      <h1>Poii Kanyaphat Khaolukchan 6401083</h1>
       <Grid container spacing={2}>
       {data.map(item => (
         <Grid item xs={12} md={4}>
@@ -34,4 +34,3 @@ function App() {
 }
 
 export default App
-
